@@ -1,4 +1,4 @@
-package ds_dz.homeworks.java_1.les5;
+package ds_dz.homeworks.java_1.testrep;
 
 
 public class HomeAnimal {
